@@ -1,5 +1,5 @@
 /****************************************************************************
- * SECTION: Gnome Theme                                                     *
+ * SECTION: GNOME THEME                                                     *
 ****************************************************************************/
 
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
